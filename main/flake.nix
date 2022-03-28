@@ -11,7 +11,6 @@
   inputs.src-nordaudio-main.ref   = "refs/heads/main";
   inputs.src-nordaudio-main.owner = "Psirus";
   inputs.src-nordaudio-main.repo  = "nordaudio";
-  inputs.src-nordaudio-main.dir   = "";
   inputs.src-nordaudio-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
