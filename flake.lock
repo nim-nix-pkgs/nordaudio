@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1667110639,
+        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
         "type": "github"
       },
       "original": {
@@ -47,11 +47,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1662243386,
-        "narHash": "sha256-PCfqWAJC5R9cYuKRUzDpAloDfYDl34LET/2/7F24lrQ=",
+        "lastModified": 1662254699,
+        "narHash": "sha256-xj64q1um3hm/ydNKs6BdH1naJqXKiSl7cAgBx04sMWU=",
         "owner": "nim-nix-pkgs",
         "repo": "nordaudio",
-        "rev": "cc808f7dfd04cfa12c40f95045675a56ca15e644",
+        "rev": "afd678bc333b74f82e04996a71fe5d469a0d0a65",
         "type": "github"
       },
       "original": {
