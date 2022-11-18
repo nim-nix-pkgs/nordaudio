@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1667334686,
-        "narHash": "sha256-8bflv2AW95rhpwTMLgP1JbSyyJaxjBXtalZ7xGj/Gnk=",
+        "lastModified": 1668748949,
+        "narHash": "sha256-PGySN40/OkF78E8M8H1LgvjcA1uPkPCwGbImvLL/O3o=",
         "owner": "nim-nix-pkgs",
         "repo": "nordaudio",
-        "rev": "c9ab391004d75e7bad3c9055aa96782decd7fb98",
+        "rev": "9a98cf71d182ace5fccc39755a18138af3bc2f48",
         "type": "github"
       },
       "original": {
